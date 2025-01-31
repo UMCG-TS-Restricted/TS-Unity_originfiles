@@ -1,0 +1,20 @@
+{
+    "name": "Unity.AdgInSitu.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6d6e75292d4dc44298da319feed08e3",
+        "GUID:867691d17716e17488aef07db595c824",
+        "GUID:55b91be01bcfec941b0a40664aff4588"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

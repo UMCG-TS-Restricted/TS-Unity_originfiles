@@ -1,0 +1,19 @@
+{
+  "name": "com.adg.insitu",
+  "version": "1.0.0",
+  "displayName": "ADG - In Situ",
+  "description": "A library to read, display and interact with VR- and Motion Capture data.",
+  "unity": "2022.3",
+  "keywords": [
+    "8D"
+  ],
+  "author": {
+    "name": "8D Games",
+    "email": "info@8d-games.nl",
+    "url": "https://8d-games.nl/"
+  },
+  "type": "library",
+  "dependencies": {
+	"com.adg.core": "1.0.0"
+  }
+}

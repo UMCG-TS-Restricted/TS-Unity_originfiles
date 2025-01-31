@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62ab9dce80246f445a19e71e26ab1897, type: 3}
+  m_Name: gizmos
+  m_EditorClassIdentifier: 
+  Gizmos:
+  - {fileID: 815580838658141981, guid: 129a92b13c1ade645932df056862688c, type: 3}
+  - {fileID: 3353650031522899203, guid: 75f7c44110208184eba663f66168d02e, type: 3}
+  GizmoMaterials:
+  - {fileID: 2100000, guid: ef0fd143347b2fa4b89271a4318715e1, type: 2}
+  - {fileID: 2100000, guid: 5102b54c7ea9fb246863260094fcf4eb, type: 2}
+  GizoTexts:
+  - {fileID: 3009122250761811881, guid: 51648652ad9969b43a65bf385d12f8d1, type: 3}

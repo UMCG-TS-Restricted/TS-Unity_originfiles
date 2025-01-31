@@ -1,0 +1,15 @@
+Font: Squada One  Style: Regular
+Point Size: 189   SP/PD Ratio: 4.8%
+
+Characters included: 87/89
+Missing characters: 2
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 10	Hex: A	Char [
+]
+ID: 8217	Hex: 2019	Char [’]
+
+Characters excluded from packing:
+----------------------------------------

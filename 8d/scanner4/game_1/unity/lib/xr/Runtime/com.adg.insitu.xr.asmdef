@@ -1,0 +1,19 @@
+{
+    "name": "com.adg.insitu.xr",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:f6d6e75292d4dc44298da319feed08e3",
+        "GUID:d935083f4b681c343956e6264e4ab101",
+        "GUID:f2593024e1f81c840a24a0c1633f8dc7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "com.adg.insitu.platform",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6d6e75292d4dc44298da319feed08e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

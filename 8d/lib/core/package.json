@@ -1,0 +1,16 @@
+{
+  "name": "com.adg.core",
+  "version": "1.0.0",
+  "displayName": "ADG Core",
+  "description": "A library to make life better.",
+  "unity": "2022.3",
+  "keywords": [
+    "8D"
+  ],
+  "author": {
+    "name": "8D Games",
+    "email": "info@8d-games.nl",
+    "url": "https://8d-games.nl/"
+  },
+  "type": "library"
+}

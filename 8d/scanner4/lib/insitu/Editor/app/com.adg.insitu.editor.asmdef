@@ -1,0 +1,23 @@
+{
+    "name": "com.adg.insitu.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6d6e75292d4dc44298da319feed08e3",
+        "GUID:55b91be01bcfec941b0a40664aff4588",
+        "GUID:d935083f4b681c343956e6264e4ab101",
+        "GUID:c7bbd6c891e978c489ba320e6b055d18",
+        "GUID:f2593024e1f81c840a24a0c1633f8dc7",
+        "GUID:25a50f8dc840168449678ab2d889f711"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
